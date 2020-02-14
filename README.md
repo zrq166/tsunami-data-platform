@@ -1,5 +1,6 @@
 # TsunamiDataDownload
 A SJTU PRP project, which can download tsunami caused by earthquake data by a button. <br>
+Author: Junwei Deng, Runqing Zhou
 
 ## Version
 
